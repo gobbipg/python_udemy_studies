@@ -1,0 +1,3 @@
+"""
+Iterando strings com while
+"""
